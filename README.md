@@ -20,4 +20,4 @@ output the curve we need
 
 other .py documents are for reference
 
-datasets downloaded and unzipped, well prepared for our use.
+datasets downloaded and unzipped, well prepared for use.
