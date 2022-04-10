@@ -14,5 +14,4 @@ output the curve we need
 
 ## others
 
-the four datasets we need are already downloaded and unzipped,
-which have been well prepared for our use.
+downloaded and unzipped, well prepared for our use.
