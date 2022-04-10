@@ -50,7 +50,7 @@ train_data, test_data = load_data()
 def evaluate():
     net = MNIST_MLP(0.0001, 784, 256, 10)
     net.init_MLP()
-    net.load_model('2level.npy')
+    net.load_model('2layer.npy')
     y_prob = net.forward(test_data[:, :-1])
     y_pred = np.argmax(y_prob, axis=1)
     test_acc = np.mean(y_pred == test_data[:, -1])
