@@ -250,7 +250,7 @@ def train():
 
                     if test_acc > best_acc:
                         best_acc, best_lr, best_hidden, best_alpha, best_epoch = test_acc, lr, hidden, alpha, epoch
-                        net.save_model('2level.npy')
+                        net.save_model('2layer.npy')
     print('best_lr: ', best_lr, 'best_hidden: ', best_hidden, 'best_alpha: ', best_alpha, 'best_epoch: ', best_epoch,' best_acc: ', best_acc)
 
 
