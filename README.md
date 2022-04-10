@@ -18,4 +18,6 @@ output the curve we need
 
 ## others
 
-downloaded and unzipped, well prepared for our use.
+other .py documents are for reference
+
+datasets downloaded and unzipped, well prepared for our use.
