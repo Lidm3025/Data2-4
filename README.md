@@ -8,9 +8,9 @@ a simple attempt (retry basically, helping to get on)
 
 train the 2-layer neural network model
 
-## mnist_evaluate.py
+## mnist_test.py
 
-evaluate the performance of the model gained above
+test the performance of the model gained above
 
 ## mnist_plot.py
 
